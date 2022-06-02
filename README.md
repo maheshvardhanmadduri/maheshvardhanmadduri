@@ -1,5 +1,4 @@
-### Hi there, Mahesh Vardhan this side 👨🏻‍💻 <img align="right" src="https://komarev.com/ghpvc/?username=maheshvardhanmadduri&color=green" alt="Mahesh Vardhan Madduri"/> 
-
+### Hi there, Mahesh Vardhan this side 👨🏻‍💻 
 
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/maheshvardhanmadduri">
@@ -22,11 +21,17 @@
 - 🌱 Working my way to become DevOps Engineer 👨🏻‍💻
 - 👯 Open to collaborate on open-source Projects 🤗
 - ⚙️ Loves to learn & share with the community 🐬
-- 🤗 Love to make new connections 👫🐥
+- 🤗 Passionate Developer & Open Source Enthusiast🐥
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/maheshvardhanmadduri/">LinkedIn</a> 😍
 
 
-
+| Company | Work Profile | Period of work
+|:---------:|:----------------------------------:|:--------------------:|
+| Wiraa | Freelance Software Engineer for Wiraa, a self-promotion and social networking platform for Professionals. It serves as a freelancing platform and recruiting site. | 05/2022 - Now | 
+| TutorialsPoint| Freelance Academic Writer in K-12, CBSE segment | 05/2022 - Now |
+| PepperContent | Freelance Writer for Technical, Blog, Re-Work assignments | 07/2021 - Now |
+| My Cognitive Ltd |  Freelance Software Engineer, worked on fixing bugs, documentation. WOrked with tools & techologies - Visual Studio Code, Metatrader5, Git, Python, C++ | 03/2021 - 04/2021) |
+| Self Employed | Freelance Developer, projects were mainly related to fixing bugs, web & software development. Python, C++, HTML/CSS, JavaScript, PHP, WordPress were focussed in freelance projects. | 07/2017 - 12/2021|
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshvardhanmadduri&theme=tokyonight)  
