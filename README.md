@@ -33,7 +33,7 @@
 | My Cognitive Ltd |  Freelance Software Engineer, worked on fixing bugs, documentation. WOrked with tools & techologies - Visual Studio Code, Metatrader5, Git, Python, C++ | 03/2021 - 04/2021) |
 | Self Employed | Freelance Developer, projects were mainly related to fixing bugs, web & software development. Python, C++, HTML/CSS, JavaScript, PHP, WordPress were focussed in freelance projects. | 07/2017 - 12/2021|
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=maheshvardhanmadduri&theme=radical&hide_border=false) &nbsp;&nbsp;&nbsp;  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshvardhanmadduri&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=maheshvardhanmadduri&theme=radical&hide_border=false) &nbsp;  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshvardhanmadduri&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 [![](https://visitcount.itsvg.in/api?id=maheshvardhanmadduri&icon=0&color=0)](https://visitcount.itsvg.in)
