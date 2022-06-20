@@ -28,7 +28,7 @@
 | Company | Work Profile | Period of work
 |:---------:|:----------------------------------:|:--------------------:|
 | Wiraa | Freelance Software Engineer for Wiraa, a self-promotion and social networking platform for Professionals. It serves as a freelancing platform and recruiting site. | 05/2022 - Now | 
-| TutorialsPoint| Freelance Academic Writer in K-12, CBSE segment | 05/2022 - Now |
+| TutorialsPoint| Freelance Academic Writer in K-12, CBSE segment | 05/2022 - 06/2022 |
 | PepperContent | Freelance Writer for Technical, Blog, Re-Work assignments | 07/2021 - Now |
 | My Cognitive Ltd |  Freelance Software Engineer, worked on fixing bugs, documentation. WOrked with tools & techologies - Visual Studio Code, Metatrader5, Git, Python, C++ | 03/2021 - 04/2021) |
 | Self Employed | Freelance Developer, projects were mainly related to fixing bugs, web & software development. Python, C++, HTML/CSS, JavaScript, PHP, WordPress were focussed in freelance projects. | 07/2017 - 12/2021|
