@@ -18,7 +18,7 @@
 
 
 - 🔭 I’m currently focusing on upgrading skills 👨⌛️
-- 🌱 Working my way to become DevOps Engineer 👨🏻‍💻
+- 🌱 Passionate about Backend Development, DevOps & Cloud Technologies 👨🏻‍💻
 - 👯 Open to collaborate on open-source Projects 🤗
 - ⚙️ Loves to learn & share with the community 🐬
 - 🤗 Passionate Developer & Open Source Enthusiast🐥
